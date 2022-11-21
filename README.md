@@ -3,7 +3,7 @@
 <p><em>Fullstack Software Engineer at <a href="#">Access Foundation
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-<p><em>Previously Lead Developer at <a href="#">KIT Solutions (also known as Build With KIT)
+<p><em>Previously Lead Software Engineer at <a href="#">KIT Solutions (also known as Build With KIT)
 </a>
 </em></p>
 
