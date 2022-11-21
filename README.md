@@ -1,13 +1,13 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Nilesh Modhwadiya! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Lead Fullstack Software Engineer at <a href="#">Access Foundation
+<p><em>Fullstack Software Engineer at <a href="#">Access Foundation
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-<p><em>Previously at Lead SDE at <a href="#">KIT Solutions (also known as Build With KIT)
+<p><em>Previously Lead Developer at <a href="#">KIT Solutions (also known as Build With KIT)
 </a>
 </em></p>
 
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dataguy-nilesh-modhwadiya
+[![Linkedin: nilesh](https://img.shields.io/badge/-nilesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dataguy-nilesh-modhwadiya
 )](https://www.linkedin.com/in/dataguy-nilesh-modhwadiya)
 ![GitHub followers](https://img.shields.io/github/followers/dataguy-nilesh?label=Follow&style=social)
 
@@ -21,7 +21,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const nilesh = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "React", "Node"],
     askMeAbout: ["web dev", "tech", "data integration", "photography"],
